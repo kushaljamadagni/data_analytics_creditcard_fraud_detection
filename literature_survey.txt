@@ -15,11 +15,13 @@ the benefit of the bagging ensemble algorithm.
 Paper1:https://www.researchgate.net/publication/336800562_Credit_Card_Fraud_Detection_using_Machine_Learning_and_Data_Science
 
 This methodology uses the latest methodology outliers methodology to find the fraud detection.
+
 Paper2:ijaerv13n24_18.pdf
 
 The proposed techniques are used in this paper, for detecting the frauds in credit card system. The comparison are made for different 
 machine learning algorithms such as Logistic Regression, Decision Trees, Random Forest, to determine which algorithm gives suits best
 and can be adapted by credit card merchants for identifying fraud transactions
+
 Paper3:9121114
 
 The algorithms used are random forest algorithm and the Adaboost algorithm. The results of the two algorithms are based on accuracy,
@@ -33,3 +35,17 @@ Based on the initial exploratory analysis on the dataset we found out that there
 the dataset is found to be highly unbalanced.We tried to find out the correlation between the columns but we found there is no notable
 correlation between features V1-V28. There are certain correlations between some of these features and Time (inverse correlation with
 V3) and Amount (direct correlation with V7 and V20, inverse correlation with V1 and V5).
+
+Paper4: Credit Card Fraud Detection using Deep Learning based on Auto-Encoder and Restricted Boltzmann Machine
+
+In this paper it highlights the fact that Fraud investigators, banking systems, and electronic payment systems such as PayPal and other online transaction gateways have an efficient and complex fraud detection system to prevent fraud activities that change dynamically and rapidly.
+
+Using this information, the lesson is to determine stand out patterns of fraud behavior that have undergone significant changes relative to the past. It goes on to highlight the types of Fraud detection anomaly detection and misuse detection. While anomaly detection systems bring normal transaction to be trained and use techniques to determine novel frauds, a misuse fraud detection system uses the labeled transaction as normal or fraud transaction to be trained in the database history
+
+Paper5: Cyber Risk for the Financial Sector: A Framework for Quantitative Assessment
+
+This main goal of this paper was to identify the top grossing issues faced by the financial sector. This paper showcases a novel documentation of cyber risk around the world for financial institutions by analyzing the different types of cyber incidents (data breaches, fraud and business disruption) and identifying patterns using a assortment of datasets. 
+Interesting points regarding data on cyber incidents being scarce and only few quantitative analyses of cyber risk being made is emphasized. Further the Author goes on to talk about how the data on cyber risk is notoriously scarce and since there is no common standard to record them firms are having very little incentive and resources to report them.
+
+This paper provides a framework for assessing cyber risk for financial institutions complemented by a qualitative and quantitative overview giving us a glimpse of how vast the problem is and a scalable measure to evaluate the company’s security with regard to these cyber risks.
+
